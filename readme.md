@@ -1,5 +1,9 @@
 This website is a quiz with a timer .
 
+Repo-https://github.com/Collins418/LCollins-Challenge-4/
+Deploy-https://collins418.github.io/LCollins-Challenge-4/
+
+
 Like other bootcamp assignments, a user story and acceptance criteria were provided;
 
 'GIVEN I am taking a code quiz'
